@@ -19,6 +19,17 @@ https://github.com/istoreos/istoreos
 
 https://github.com/bcseputetto/Are-u-ok
 
+# openclash官方
+
+https://github.com/vernesong/Openclash/releases
+
+https://wiki.metacubex.one/startup/client/client/#ios
+
+https://tkbaohe.com/swgj/
+
+# openclash使用教程
+
+
 
 
 
