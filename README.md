@@ -29,6 +29,7 @@ https://tkbaohe.com/swgj/
 
 # openclash使用教程
 
+<img width="1659" height="787" alt="image" src="https://github.com/user-attachments/assets/6e3ce444-2d11-4998-b42e-431c6b16061e" />
 
 
 
