@@ -1,5 +1,7 @@
 # 斐讯N1 iStoreOS配置
 
+  https://blog.757688.xyz/n1-istoreos/
+
   https://github.com/tohsaka888/n1_openwrt_config
 
 # 斐讯N1 iStoreOS官网
