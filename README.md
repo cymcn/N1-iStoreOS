@@ -73,6 +73,10 @@ https://tkbaohe.com/swgj/
 <img width="1744" height="847" alt="image" src="https://github.com/user-attachments/assets/5f050590-7d12-4821-b96e-3439cfb2eb61" />
 ↓
 ↓
+<img width="1717" height="868" alt="image" src="https://github.com/user-attachments/assets/bd5a02c5-1e88-4e3b-9353-365a0ee4f71f" />
+
+↓
+↓
 <img width="1750" height="741" alt="image" src="https://github.com/user-attachments/assets/4313f417-b4a3-4c88-8cd6-f5405e761719" />
 ↓
 ↓15
