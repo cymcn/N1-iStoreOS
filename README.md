@@ -29,6 +29,13 @@ https://wiki.metacubex.one/startup/client/client/#ios
 
 https://tkbaohe.com/swgj/
 
+# Clash 官网导航(2026年7月最新)
+
+https://github.com/clashdownload/Clash
+
+https://github.com/clash-download/clash
+
+
 # openclash使用教程
 
 <img width="1659" height="787" alt="image" src="https://github.com/user-attachments/assets/6e3ce444-2d11-4998-b42e-431c6b16061e" />
