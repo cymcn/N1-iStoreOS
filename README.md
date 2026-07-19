@@ -8,6 +8,9 @@
 
 https://fw.koolcenter.com/iStoreOS/alpha/n1/
 
+# 斐讯N1 iStoreOS Nikki配置
+
+https://docs.reiz.link/openwrt/nikki/
 
 # openwrt-daede
 
